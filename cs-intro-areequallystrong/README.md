@@ -1,4 +1,4 @@
-# CodeSignal - Intro - [challenge number]. [challenge name]
+# CodeSignal - Intro - 19.areEquallyStrong
 
 ## Problem
 Call two arms equally strong if the heaviest weights they each are able to lift are equal.
